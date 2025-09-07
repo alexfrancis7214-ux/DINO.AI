@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dino.Ai</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="                
+                <li><a href="#">Music Bot</a></li>
+                <li><a href="                      
+                <li><a href="#">3D Games Bot</a></li>
+                <li><a href="                    
+                <li><a href="#">Story Bot</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <!-- Home section -->
+        <section id="home">
+            <h1>Welcome to Dino.Ai!</h1>
+            <p>Explore our features below!</p>
+            <ul>
+                <li><a href="                              
+                <li><a href="#avatar-bot">Avatar Bot</a></li>
+                <li><a href="                                    
+                <li><a href="#chat-bot">Chat Bot</a></li>
+                <li><a href="                              
+            </ul>
+        </section>
+        
+        <!-- Music Bot section -->
+        <section id="music-bot">
+            <h1>Music Bot</h1>
+            <p>Search and play your favorite songs!</p>
+            <input type="search" id="music-search" placeholder="Search for a song...">
+            <button id="music-play">Play</button>
+            <div id="music-player"></div>
+        </section>
+        
+        <!-- Avatar Bot section -->
+        <section id="avatar-bot">
+            <h1>Avatar Bot</h1>
+            <p>Create your own avatar!</p>
+            <input type="file" id="avatar-upload" accept="image/*">
+            <button id="avatar-create">Create Avatar</button>
+            <div id="avatar-preview"></div>
+        </section>
+        
+        <!-- 3D Games Bot section -->
+        <section id="3d-games-bot">
+            <h1>3D Games Bot</h1>
+            <p>Play 3D games in your browser!</p>
+            <ul>
+                <li><a href="#mario">Mario</a></li>
+                <li><a href="                                  
+                <li><a href="#escape-from-jeff">Escape from Jeff the Hunter</a></li>
+            </ul>
+        </section
